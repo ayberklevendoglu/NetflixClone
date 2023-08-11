@@ -155,3 +155,26 @@ nav{
     font-size: 1.5em;
     margin: 1.5em;
 }
+.footer-cont{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    gap: 16em;
+    padding: 5em 0;
+    color: rgba(255, 255, 255, 0.7);
+}
+.call{
+    padding: 15px;
+}
+.netf{
+    padding: 15px;
+}
+.netf > p{
+    padding-top: 2rem;
+}
+#grey-p{
+    color: rgba(255, 255, 255, 0.7);
+}
+a{
+    color: rgba(255, 255, 255, 0.7);
+}
